@@ -1,0 +1,4 @@
+---
+- name: Install ruby
+  package:
+    name: ruby
